@@ -1,0 +1,18 @@
+https://www.freemysqlhosting.net/
+Signup Account in This Website ^
+
+
+Next u need to made database and another options.. 
+This video explain how to do that :
+https://www.youtube.com/watch?v=rJHtOGv3BzQ
+
+
+And You Want Enter in script 
+-1 Server
+-2 Username
+-3 Password
+-4 Database Name
+
+
+-----------------------------------
+then it should be work without Errors
